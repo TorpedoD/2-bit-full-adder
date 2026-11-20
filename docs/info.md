@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This circuit adds 2 bits together, this is a full 2 bit adder and has 3 different outputs. With the third being the carry bit. 
 
 ## How to test
 
-Explain how to use your project
+You may press the corresponding buttons, and based on input or button presses you will get that added and shown in binary. 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+There is no external hardware it is all on the board. There are 4 buttons corresponding the the input bits, and 3 led's that show the output in binary. 
